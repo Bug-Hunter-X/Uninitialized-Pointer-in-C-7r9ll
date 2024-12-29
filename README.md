@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating the error of using an uninitialized pointer. The bug.c file shows the erroneous code, while bugSolution.c provides the corrected version. Uninitialized pointers can lead to unexpected behavior and crashes, as they point to random memory locations. Always initialize your pointers before using them.
